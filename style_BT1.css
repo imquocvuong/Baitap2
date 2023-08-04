@@ -1,0 +1,20 @@
+.first-class {
+    color: green;
+    border: 1px solid red
+}
+
+#firstId {
+    color: green;
+}
+
+#secondId {
+    color: red;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.image_vuong {
+    height: 400px;
+    width: 400px;
+    ;
+}
